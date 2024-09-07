@@ -12,3 +12,10 @@ Belajar dasar git dengan github. (progres 30%)
 - Pengantar dasar git
 - Mengenal perintah dasar git
 - Mengenal git workflow
+
+08 september 2024 <br>
+Belajar dasar git dengan github. (progres 100%)
+--
+- Git branches
+- Kolaborasi dengan tim
+- Github sebagai portfolio

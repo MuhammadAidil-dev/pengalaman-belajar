@@ -21,3 +21,12 @@ Belajar dasar git dengan github. (progres 100%)
 - Git branches
 - Kolaborasi dengan tim
 - Github sebagai portfolio
+
+# 2. Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
+09 september 2024 <br>
+--
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progres 100%)
+- Memahami kebutuhan aplikasi
+- Perencanaan Modifikasi Aplikasi
+- Pengenalan Konsep Dasar Pemrograman
+- Dokumentasi Pemrograman dan Pengembangan Aplikasi Perangkat Lunak

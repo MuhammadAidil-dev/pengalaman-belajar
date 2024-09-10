@@ -30,3 +30,10 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progres 100%)
 - Perencanaan Modifikasi Aplikasi
 - Pengenalan Konsep Dasar Pemrograman
 - Dokumentasi Pemrograman dan Pengembangan Aplikasi Perangkat Lunak
+
+# 3. Pengenalan ke Logika Pemrograman (Programming Logic 101)
+10 september 2024 <br>
+--
+Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%)
+- Gerbang logika
+- Pengenalan dasar computational thinking

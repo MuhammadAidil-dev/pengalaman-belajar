@@ -37,3 +37,13 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software. (Progres 100%)
 Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%)
 - Gerbang logika
 - Pengenalan dasar computational thinking
+
+# 4. Belajar dasar pemograman web
+12 september 2024 <br>
+--
+Belajar dasar pemograman web. (Progres 49%)
+- Pengantar HTML
+- Pendalaman HTML
+- Pengantar CSS
+
+

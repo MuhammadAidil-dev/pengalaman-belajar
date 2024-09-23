@@ -41,9 +41,10 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%)
 # 4. Belajar dasar pemograman web
 12 september 2024 <br>
 --
-Belajar dasar pemograman web. (Progres 49%)
+Belajar dasar pemograman web. (Progres 100%)
 - Pengantar HTML
 - Pendalaman HTML
 - Pengantar CSS
-
+- Pendalaman CSS
+- Proyek akhir(Submission)
 

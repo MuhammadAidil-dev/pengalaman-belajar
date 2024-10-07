@@ -48,3 +48,26 @@ Belajar dasar pemograman web. (Progres 100%)
 - Pendalaman CSS
 - Proyek akhir(Submission)
 
+# 5. Belajar dasar pemograman javascript
+07 oktober 2024 <br>
+-- 
+Belajar dasar pemograman javascript. (Progres 100%)
+- Pengantar javascript
+- Sintaks javascript
+- Function
+- Flow control
+- Modularisasi
+- Object Oriented Programming
+- Functional Programming
+- Asyncronus
+- Code quality
+- Proyek akhir(Submission)
+
+# 6. Belajar Membuat Front-End Web untuk Pemula
+07 oktober 2024 <br>
+-- 
+Belajar Membuat Front-End Web untuk Pemula. (Progres 100%)
+- Browser object model(BOM) dan Documnt object model(DOM)
+- Event
+- Function
+- Web storage
